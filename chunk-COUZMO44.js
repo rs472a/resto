@@ -1,0 +1,1 @@
+import{Ka as a,La as i,W as o,Za as r,bb as s}from"./chunk-UBMOHPJK.js";var d=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-team"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,p){n&1&&(a(0,"p"),r(1,"team works!"),i())}});let t=e;return t})();export{d as TeamComponent};

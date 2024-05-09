@@ -1,0 +1,1 @@
+import{Ka as a,La as i,W as o,Za as r,bb as c}from"./chunk-UBMOHPJK.js";var d=(()=>{let t=class t{};t.\u0275fac=function(n){return new(n||t)},t.\u0275cmp=o({type:t,selectors:[["app-contact"]],standalone:!0,features:[c],decls:2,vars:0,template:function(n,p){n&1&&(a(0,"p"),r(1,"contact works!"),i())}});let e=t;return e})();export{d as ContactComponent};
